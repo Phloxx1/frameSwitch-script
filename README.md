@@ -4,6 +4,7 @@ This Unity C# script enables smooth transitions between 2D frame-based levels or
 ## 🎥 Demo
 
 ![FrameSwitch Demo](./frameSwitch-demo.gif)
+![FrameSwitch Unity Inspector](./frameSwitch-inspector.png)
 
 ## ✨ Features
 - Automatically enables/disables GameObjects that represent different "frames" or rooms.
